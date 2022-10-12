@@ -9,14 +9,14 @@ img{
 }
 
 .nombre{
-    color: black;
+    color: rgb(255, 5, 222);
     font-size: 5em;
     margin: 10px;
     text-align: center;
 }
 
 .cargo{
-    color: black;
+    color: rgb(255, 5, 222);
     font-size: 2em;
     text-align: center;
 }
